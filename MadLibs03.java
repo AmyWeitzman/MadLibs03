@@ -1,13 +1,3 @@
-/**
- * @student.info
- *<BR> Name:          First Last
- *<BR> Date:          0-00-0000
- *<BR> Period:        0
- *<BR> Assignment:    Lesson00
- *<BR> Description:   In a sentence, describe goals
- *<BR> Cite Sources:  People who helped, and/or websites used
- */
-
 import java.util.Scanner;  
  
 public class MadLibs03
@@ -87,8 +77,3 @@ public class MadLibs03
 		+ ". Take it out, cut it up, and " + verb + ".");
 	}
 }
-
-/*
-RUN OUTPUT:
-
-*/
